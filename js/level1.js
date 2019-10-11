@@ -51,6 +51,9 @@
 // TODO: Now it's your turn! Try to create an alert with any phrase you want.
 
 
+alert('common!');
+
+console.log('what the heck...')
 
 
 
